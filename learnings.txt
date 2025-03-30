@@ -3,3 +3,4 @@ inside git repo richdavisdotme
 repo linked via vercel
 custom domain assigned with A records in cloudflare
 vercel click-to-deploy
+doing something
